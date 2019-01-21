@@ -2,7 +2,8 @@
 
 Welcome to _Flavor_, the only place on the planet where your taste buds won't be disappointed!
 
-
+## Last Month's Favorites
+[Quick Oatmeal Pancakes](recipe/feb/recipe.md)
 
 ## Picks of the Month
 
@@ -14,10 +15,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Eggs Benny](writer/eggs-benny.md) | 
 
 [Vanilla Panna Cotta](recipe/jan/vanilla-panna-cotta.md)
-
-### [John Lemon](writer/john-lemon.md) | 
-
-[Homemade Sausages](recipe/jan/homemade-sausages.md)
 
 ### [Madame Croque](writer/madame-croque.md) | 
 
