@@ -2,7 +2,8 @@
 
 Welcome to _Flavor_, the only place on the planet where your taste buds won't be disappointed!
 
-
+## Last Month's Favorites
+[Quick Oatmeal Pancakes](recipe/feb/recipe.md)
 
 ## Picks of the Month
 
